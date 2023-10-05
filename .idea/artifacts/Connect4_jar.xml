@@ -1,0 +1,102 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Connect4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Connect4_jar</output-path>
+    <root id="archive" name="Connect4.jar">
+      <element id="module-output" name="Connect4" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20/javafx-fxml-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20/javafx-controls-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20/javafx-graphics-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20/javafx-base-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20/javafx-fxml-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20/javafx-graphics-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20/javafx-controls-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20/javafx-base-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.6.0/formsfx-core-11.6.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-console-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/decora_sse.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/fxplugins.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/glass.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/glib-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/javafx_font.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/javafx_iio.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/jfxwebkit.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/msvcp140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/msvcp140_1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/msvcp140_2.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/prism_common.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/prism_d3d.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/prism_sw.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/bin/vcruntime140_1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/deploy.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/fxreg.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/libxml2.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jp2ssv.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jp2launcher.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/javafx-font.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/javacpl.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/glib-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/mat.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jbroker.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/decora-sse.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jp2iexp.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/eula.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/prism-d3d.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jp2native.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/javaws.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/decora-d3d.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/msvcr100.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/javafx-iio.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/fxplugins.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/ssv.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/ssvagent.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/WebPaneJava.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../Program Files/Oracle/JavaFX 2.0 Runtime/bin/wsdetect.dll" />
+    </root>
+  </artifact>
+</component>
