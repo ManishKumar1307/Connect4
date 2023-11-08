@@ -82,7 +82,7 @@ public class HelloApplication extends Application {
         alert.setTitle("About The Developer");
         alert.setHeaderText("Manish Gangadhar jha");
         alert.setContentText("I Love to play around with code and create games." +
-                        "connect 4is one of them. In free time " +
+                        "connect 4 is one of them. In free time " +
                 "I like to spend time with near and dears");
         alert.show();;
     }
